@@ -7,8 +7,8 @@ public class Varaiables {
 		String lastName = "Prakash";
 		
 		         
-		//bhanu praksh ai
-				
+		//bhanu praksh ai okkk new comment 
+				//new comment
 				
 
 	}
